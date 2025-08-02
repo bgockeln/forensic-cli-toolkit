@@ -11,3 +11,5 @@ browser_files/Web Data
 
 # CSV
 *.csv
+
+*:Zone.Identifier
