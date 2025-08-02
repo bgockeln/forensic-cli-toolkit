@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Browser Files
+browser_files/*.sqlite
+browser_files/Bookmarks
+browser_files/Cookies
+browser_files/History
+browser_files/Web Data
+
+# CSV
+*.csv
