@@ -3,11 +3,10 @@ __pycache__/
 *.pyc
 
 # Browser Files
-browser_files/*.sqlite
-browser_files/Bookmarks
-browser_files/Cookies
-browser_files/History
-browser_files/Web Data
+browser_files/*
+
+# Metadata Files
+metadata_files/*
 
 # CSV
 *.csv

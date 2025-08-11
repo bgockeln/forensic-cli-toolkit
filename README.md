@@ -1,6 +1,8 @@
 # Ben's Forensic CLI Toolkit
 ##  This is my toolkit. There are many like it, but this one is mine.
 
+**Disclaimer**: This became a bit too big and complex for me at this point, will continue it later.
+
 For learning purposes: This project is a work-in-progress forensic **CLI-only** toolkit.
 I decided to try to build this to dive deeper into python and digital forensics.
 

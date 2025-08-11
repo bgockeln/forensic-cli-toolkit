@@ -1,9 +1,6 @@
 import sys
 import os
-from .history import firefox
-from .form_history import firefox
-from .bookmarks import firefox
-from .cookies import firefox
+
 
 # Detect the Browsertype by checking what browser profil files are in the bro
 def detect_browser_files(folder_path):

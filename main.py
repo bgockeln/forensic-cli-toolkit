@@ -1,5 +1,6 @@
 import sys
 from browser_artifact_scanning import main as artifact_main
+from file_metadata_scanning import main as meta_main
 
 def exit_script():
     print("Exiting...")
@@ -8,7 +9,7 @@ def exit_script():
 def main():
     menu_actions = {
         "1": artifact_main.main, 
-        "2": print("2"), #lambda: analyze_cookies(browser_files),
+        "2": meta_main.main,
         "3": print("3"), #lambda: analyze_form_history(browser_files),
         "4": print("4"), #lambda: analyze_history(browser_files),
         "5": exit_script
